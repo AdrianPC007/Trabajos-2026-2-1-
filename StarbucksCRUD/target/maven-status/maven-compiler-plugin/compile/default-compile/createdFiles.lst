@@ -1,0 +1,8 @@
+pe\edu\upeu\starbuckscrud\controller\ProductoController.class
+module-info.class
+pe\edu\upeu\starbuckscrud\model\Producto.class
+pe\edu\upeu\starbuckscrud\StarbucksApplication.class
+pe\edu\upeu\starbuckscrud\repository\ProductoRepository.class
+pe\edu\upeu\starbuckscrud\HelloController.class
+pe\edu\upeu\starbuckscrud\Launcher.class
+pe\edu\upeu\starbuckscrud\HelloApplication.class
